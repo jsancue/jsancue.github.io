@@ -1,6 +1,6 @@
 # jsancue.github.io
 
-En este repositorio se almacenarán apuntes para grado medio, superior y cursos de especialización de informática (FP informática)
+En este repositorio se almacenarán el código de mi página web de portfolio.
 
 [Enlace a la web](https://jsancue.github.io/)
 

@@ -5,12 +5,17 @@
 # Configuración de la web. Se accede mediante {{ site.title }}, {{ site.email }}...
 # Se pueden crear las variables personalizadas que queramos y usarlas en los HTML.
 title: Portfolio de Jesús Sánchez Cuevas
-email: sin-definir-aun@email.com
+title_separator: "|"
+email: jsancue@proton.me
 description: >- # con esto ignoramos nuevas líneas hasta la siguiente variable.
   Portfolio de Jesús Sánchez Cuevas, técnico superior en desarrollo de aplicaciones web y especializado en ciberseguridad.
-twitter_username: sindefinir
+url: "https://jsancue.github.io/"
+twitter_username: jsancue
 github_username: jsancue
+repository: "jsancue/jsancue.github.io"
 licencia: Todos el contenido de la web se encuentran bajo la licencia [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+
+masthead_title: "Inicio"
 
 # Configuración del tema
 remote_theme: mmistakes/minimal-mistakes
@@ -25,6 +30,7 @@ permalink: /:categories/:title/ # Cómo queremos las URL
 paginate: 5 # Cantidad de posts por página
 paginate_path: /page:num/ # Ruta de paginación
 timezone: ES # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+locale: es
 search: true
 # Se puede cambiar el proveedor de búsqueda a uno de pago, pero el actual funciona bien
 # search_provider: algolia
@@ -68,6 +74,7 @@ author:
   name: "Jesús Sánchez Cuevas"
   avatar: "/assets/images/xina.jpeg"
   bio: "Técnico Superior en Desarrollo de Aplicaciones Web. Especialización en Ciberseguridad."
+  location: "Cádiz, España"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
@@ -100,7 +107,7 @@ defaults:
       type: posts
     values:
       layout: single
-      read_time: false
+      read_time: true
       comments: false # Quitamos los comentarios por ahora
       share: false # Quitamos los enlaces a las redes sociales
       related: false # Quitamos los relacionados

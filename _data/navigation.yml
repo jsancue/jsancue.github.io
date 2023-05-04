@@ -9,7 +9,7 @@ main:
   - title: "Etiquetas"
     url: /tags/
     description: "Ver las etiquetas de los apuntes"
-  - title: "Sobre el proyecto"
+  - title: "Sobre mi"
     url: /about/
 
 menu:

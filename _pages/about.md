@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Sobre el proyecto"
+title: "Sobre mi."
 ---
 
 La idea de este repositorio, y por tanto de la página web, es la de crear un repositorio de información para compartir información entre todas las personas interesadas en el mundo de la ciberseguridad.
