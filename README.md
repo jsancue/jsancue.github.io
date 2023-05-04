@@ -1,8 +1,8 @@
-# rafaeldelrio.github.io
+# jsancue.github.io
 
 En este repositorio se almacenarán apuntes para grado medio, superior y cursos de especialización de informática (FP informática)
 
-[Enlace a la web](https://rafaeldelrio.github.io/)
+[Enlace a la web](https://jsancue.github.io/)
 
 La idea es que todo el contenido sea público y se encuentre bajo la licencia Creative Commons.
 
